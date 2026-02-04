@@ -33,6 +33,13 @@ The randomness ensures that each race has an unpredictable and exciting outcome.
 
 ---
 
+## 🎥 Simulation Preview (GIF)
+
+<div align="center">
+  <img src="assets/turtle.gif" alt="Turtle Racing Simulator GIF" width="700"/>
+  <p><i>Real-time visualization of the turtle race simulation using Python Turtle Graphics</i></p>
+</div>
+
 ## 🎮 How the Simulation Works
 
 1. The user selects the number of turtles (between **2 and 10**)
@@ -95,3 +102,4 @@ B.Tech Student | Python Developer | Machine Learning Enthusiast
 ---
 
 ⭐ *If you found this project useful or interesting, consider starring the repository.*
+
